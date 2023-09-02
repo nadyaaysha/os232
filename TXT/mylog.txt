@@ -7,3 +7,4 @@
 # LogCode + Description List
 
 ZCZC WEEK00 15 L00 Do Week00 OS Assignment
+ZCZC WEEK00 180 L01 Offline Mentoring DDP-0
