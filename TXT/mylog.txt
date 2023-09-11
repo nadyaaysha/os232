@@ -6,6 +6,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 
-ZCZC WEEK00 15 L00 Do Week00 OS Assignment
-ZCZC WEEK00 180 L01 Offline Mentoring DDP-0
-ZCZC WEEK01 240 L00 Do Week01 OS Assignment
+ZCZC W00 15 L00 Do Week00 OS Assignment
+ZCZC W00 180 L01 Offline Mentoring DDP-0
+ZCZC W01 240 L00 Do Week01 OS Assignment
+ZCZC W02 150 L00 Do Assignment 2 PBP
