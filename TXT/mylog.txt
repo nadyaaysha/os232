@@ -11,3 +11,6 @@ ZCZC W00 180 L01 Offline Mentoring DDP-0
 ZCZC W01 240 L00 Do Week01 OS Assignment
 ZCZC W02 150 L00 Do Assignment 2 PBP
 ZCZ W02 150 L01 Finishing Assignment 2 OS
+ZCZC W03 120 L00 Do Assignment 3 OS
+ZCZC W03 120 L01 Asdos Task-Lead Discussion Pop Quiz Calculus 2
+ZCZC W03 55 L02 Reading Assignment OS
