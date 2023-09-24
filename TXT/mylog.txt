@@ -14,3 +14,5 @@ ZCZ W02 150 L01 Finishing Assignment 2 OS
 ZCZC W03 120 L00 Do Assignment 3 OS
 ZCZC W03 120 L01 Asdos Task-Lead Discussion Pop Quiz Calculus 2
 ZCZC W03 55 L02 Reading Assignment OS
+ZCZC W03 115 L03 Do MPPI Tugas 1
+ZCZC W03 60 L04 PBP Double Demo
