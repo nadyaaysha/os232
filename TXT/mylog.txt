@@ -16,3 +16,6 @@ ZCZC W03 120 L01 Asdos Task-Lead Discussion Pop Quiz Calculus 2
 ZCZC W03 55 L02 Reading Assignment OS
 ZCZC W03 115 L03 Do MPPI Tugas 1
 ZCZC W03 60 L04 PBP Double Demo
+ZCZC W04 360 L00 Do TP1 SDA
+ZCZC W04 180 L01 Part Time/ Freelance Teaching
+ZCZC W04 15 L02 Watch Video On Static And Dynamic Linking
