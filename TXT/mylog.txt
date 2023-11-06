@@ -22,3 +22,7 @@ ZCZC W04 15 L02 Watch Video On Static And Dynamic Linking
 ZCZC W05 180 L00 Part Time Teaching
 ZCZC W05 60 L01 Correcting Quizzes/ Asdos Assignments
 ZCZC W05 30 L02 Trying Midterms OS Problems
+ZCZC W06 60 L00 Do OS PopQuiz
+ZCZC W06 60 L01 Do OS Week06
+ZCZC W06 100 L02 Attend OS Lecture & Take Notes CH. 3
+ZCZC W06 50 L03 Read CH. 4 For Quiz
