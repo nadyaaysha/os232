@@ -26,3 +26,8 @@ ZCZC W06 60 L00 Do OS PopQuiz
 ZCZC W06 60 L01 Do OS Week06
 ZCZC W06 100 L02 Attend OS Lecture & Take Notes CH. 3
 ZCZC W06 50 L03 Read CH. 4 For Quiz
+ZCZC W07 60 L00 Study Process Synchronization From YouTube
+ZCZC W07 45 L01 Read CH. 6, 7, 8 Briefly For Quiz
+ZCZC W07 60 L02 Do W07 Assignment
+ZCZC W07 30 L03 Debug WEEK07-REPORT2.txt Failed
+ZCZC W07 60 L04 Continue W07 Finishing
