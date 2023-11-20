@@ -31,3 +31,4 @@ ZCZC W07 45 L01 Read CH. 6, 7, 8 Briefly For Quiz
 ZCZC W07 60 L02 Do W07 Assignment
 ZCZC W07 30 L03 Debug WEEK07-REPORT2.txt Failed
 ZCZC W07 60 L04 Continue W07 Finishing
+ZCZC W08 60 L00 Do Assignment W08
